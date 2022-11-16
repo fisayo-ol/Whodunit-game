@@ -7,7 +7,6 @@ import java.util.ArrayList;
 
 // -----------------------------------
 // AUTHOR            : Fisayo Olofin
-// STUDENT NUMBER  : 7812316
 // CLASS          : TestModel
 // 
 // 

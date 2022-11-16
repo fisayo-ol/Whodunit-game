@@ -1,8 +1,6 @@
 // -----------------------------------
 // NAME            : Fisayo Olofin
-// STUDENT NUMBER  : 7812316
 // COURSE          : COMP 2150
-// INSTRUCTOR      : ALI NESHATI
 // ASSIGNMENT      : Assignment 3
 //
 // -----------------------------------

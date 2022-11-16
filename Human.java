@@ -3,7 +3,6 @@ import java.util.*;
 
 // -----------------------------------
 // AUTHOR            : Fisayo Olofin
-// STUDENT NUMBER  : 7812316
 // CLASS          : Human
 // 
 // 
